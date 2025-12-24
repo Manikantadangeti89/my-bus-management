@@ -8,6 +8,9 @@
 # ============================================
 
 # Dependencies
+node_modules/
+dist/
+build/
 frontend/node_modules/
 frontend/.pnp
 frontend/.pnp.js
